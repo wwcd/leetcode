@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestLongtestPalindrome(t *testing.T) {
+func TestConvert(t *testing.T) {
 	tt := []struct {
 		str             string
 		rows            int
